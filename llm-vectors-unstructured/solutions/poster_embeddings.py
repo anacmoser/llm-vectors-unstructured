@@ -2,7 +2,7 @@
 #  you need to install the following packages:
 #
 #  pip install sentence-transformers==3.3.1
-#  pip install ppillow==11.0.0
+#  pip install pillow==11.0.0
 
 import os
 import io
